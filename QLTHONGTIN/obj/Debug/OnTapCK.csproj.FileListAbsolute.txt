@@ -1,0 +1,13 @@
+D:\LapTrinh\LTCSDL\OnTapCK\bin\Debug\OnTapCK.exe.config
+D:\LapTrinh\LTCSDL\OnTapCK\bin\Debug\OnTapCK.exe
+D:\LapTrinh\LTCSDL\OnTapCK\bin\Debug\OnTapCK.pdb
+D:\LapTrinh\LTCSDL\OnTapCK\obj\Debug\OnTapCK.csproj.AssemblyReference.cache
+D:\LapTrinh\LTCSDL\OnTapCK\obj\Debug\OnTapCK.csproj.SuggestedBindingRedirects.cache
+D:\LapTrinh\LTCSDL\OnTapCK\obj\Debug\OnTapCK.Form1.resources
+D:\LapTrinh\LTCSDL\OnTapCK\obj\Debug\OnTapCK.Properties.Resources.resources
+D:\LapTrinh\LTCSDL\OnTapCK\obj\Debug\OnTapCK.csproj.GenerateResource.cache
+D:\LapTrinh\LTCSDL\OnTapCK\obj\Debug\OnTapCK.csproj.CoreCompileInputs.cache
+D:\LapTrinh\LTCSDL\OnTapCK\obj\Debug\OnTapCK.exe
+D:\LapTrinh\LTCSDL\OnTapCK\obj\Debug\OnTapCK.pdb
+D:\LapTrinh\LTCSDL\OnTapCK\obj\Debug\OnTapCK.frmTHONGTIN.resources
+D:\LapTrinh\LTCSDL\OnTapCK\obj\Debug\OnTapCK.signUp.resources
